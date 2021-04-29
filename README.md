@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 ## Introduction
 
-Adding a lnie for rebasing exasmple. 
+Adding a lnie for rebasing exasmple, then more changes from myfeature branch too. 
 
 ## Purpose
 

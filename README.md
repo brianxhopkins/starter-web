@@ -2,6 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 ## Introduction
+
+Adding a lnie for rebasing exasmple. 
+
 ## Purpose
 
 Sample website with plenty of files for demos

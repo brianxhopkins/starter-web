@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brian Hopkins	brianhopkins262@gmail.com	brianxhopkins
 
 # THANKS
 
